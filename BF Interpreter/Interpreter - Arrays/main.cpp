@@ -20,7 +20,7 @@ void brainfuck()
         if(C[D] == '+')
         {
             if(F[E]==255){
-                cout<<"ERROR"<<endl;
+                cout<<"ERROR-"<<endl;
                 break;
             }
             F[E]+=1;
