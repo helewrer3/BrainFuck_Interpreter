@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+//This is arrays interpreter
 using namespace std;
 
 string C;
