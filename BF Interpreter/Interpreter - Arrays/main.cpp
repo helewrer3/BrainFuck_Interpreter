@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
-
+//This is arrays interpreter
+#define int long long
 using namespace std;
 
 string C;
@@ -100,7 +101,7 @@ void brainfuck()
     }
 }
 
-int main()
+int32_t main()
 {
     brainfuck();
     return 0;
